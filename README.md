@@ -1,6 +1,6 @@
 # **Advanced Lane Lines Finding Using Python and OpenCV**
 ---
-![intro](https://i.imgur.com/dZMacfB.jpg)
+![intro](https://i.imgur.com/ablKSmI.jpg)
 
 **In this project, I have detected lane lines on the road in several circumstances, straight lane lines, curvy, and in different lighting conditions using _Python_ and _OpenCV_.**
 
@@ -662,7 +662,7 @@ def calculate_lane_curvature_and_vehicle_position(undistorted_image, lane_lines_
 ```
 
 Here is a sample output of applying this function to one of the test images:
-![cur_pos](https://i.imgur.com/jXkf7FD.jpg)
+![cur_pos](https://i.imgur.com/kcdRuYA.jpg)
 
 
 ### Algorithm Pipeline:
