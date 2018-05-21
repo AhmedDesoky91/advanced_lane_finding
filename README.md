@@ -1,6 +1,6 @@
 # **Advanced Lane Lines Finding Using Python and OpenCV**
 ---
-![intro](https://i.imgur.com/ablKSmI.jpg)
+![intro](https://i.imgur.com/RgI4MpL.jpg)
 
 **In this project, I have detected lane lines on the road in several circumstances, straight lane lines, curvy, and in different lighting conditions using _Python_ and _OpenCV_.**
 
